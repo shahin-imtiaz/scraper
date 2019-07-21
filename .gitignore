@@ -1,0 +1,3 @@
+# intellij specific files
+/.idea
+*.iml
